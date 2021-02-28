@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#define alturaMaxima 225; // O compilador define a palavra 'alturaMAxima' como sendo 225.
+#define alturaMaxima 225 // O compilador define a palavra 'alturaMAxima' como sendo 225.
 
 /*
     A sintaxe struct{...} define uma estrutura com os campos definidos dentro das chaves;
