@@ -6,4 +6,4 @@ int main(){
     *y = 20; // Atribuindo o valor 20 para o endereço alocado para y;
     int z = sizeof(int); // retorna o tamanho de um inteiro; 
     printf("*y = %d\nz = %d\n", *y, z);
-}
+};
