@@ -25,7 +25,7 @@ int main(){
 }
 
 int definirTamanho(LISTA* l){
-    l->numeroDeElementos = 10;
+    l->numeroDeElementos = 51;
     return l->numeroDeElementos;
 }
 
