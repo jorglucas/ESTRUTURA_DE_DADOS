@@ -1,6 +1,6 @@
-// Sequencial (cinema)
-
 /*
+     Sequencial (cinema):
+
     1. Montar uma estrutura que guarde a idade da pessoa; ok
     2. Preencher a lista com 20 pessoas com idade entre 18 e 90;
     3. Receber a idade da pessoa;
@@ -51,6 +51,5 @@ void preencherLista(LISTA *l){
 int main(){
     srand(time(NULL));
     LISTA l;
-
     preencherLista(&l);
 }
